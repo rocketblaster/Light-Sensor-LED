@@ -31,4 +31,5 @@ I also keep running into this error "Error input power pin not driven by output 
 I fixed it by adding powerflags.
 
 1[image](attachments/image5.png)
-### Time Spent: 1.5 Hours
+
+### Time Spent: 2 Hours

@@ -12,4 +12,8 @@ Orginally I wanted to go with one LED because it was simple. Now that I think ab
 
 I followed the diagram but I ran to a problem, my pins are not in the same orientation as it is in the picture so I had to reroute my wiring so that it can match the pinouts. Pin 3 is output so it should be ok!
 
+I don't like how my schematic looks in my opinion and I really want to clean it up, but the LDR photo resistor should stay between pin 4 and 8 so that's why I designed it that way. Maybe it would be ok but I'll check the datasheet.
+
+1[image](attacments/image1.png)
+
 ### Time Spent: 1 Hours

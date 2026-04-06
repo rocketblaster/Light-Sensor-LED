@@ -20,4 +20,8 @@ I put my resistor for LED at 330 ohms so they're bright. I decided that I needed
 
 ![image](attachments/image2.png)
 
-### Time Spent: 1 Hours
+I ended up changing the pin locations of the 555 timer, and when I tested with DRC, it didn't like that. However it is just a warning and it won't affect the functionally as much so it is totally okay! I initally wanted R3 and RV1 on the top but it didn't look good with a long wire with nothing in between pin 8 and 3. I had to adjust it so the text doesn't overlap on the 555 timer but there was nothing I can do about it to be honest for clean straight lines. That's why Discharge and VCC are close because I wanted R1 and R4 to be connected cleanly. In addition I moved the power flags.
+
+![image](attachments/image3.png)
+
+### Time Spent: 1.5 Hours

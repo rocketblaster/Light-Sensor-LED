@@ -26,4 +26,5 @@ I ended up changing the pin locations of the 555 timer, and when I tested with D
 
 I also keep running into this error "Error input power pin not driven by output power pins" for my VCC on the top, it only works if I connect it like this...
 
+![image](attachments/image4.png)
 ### Time Spent: 1.5 Hours

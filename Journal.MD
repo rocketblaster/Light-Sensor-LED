@@ -14,8 +14,10 @@ I followed the diagram but I ran to a problem, my pins are not in the same orien
 
 I don't like how my schematic looks in my opinion and I really want to clean it up, but the LDR photo resistor should stay between pin 4 and 8 so that's why I designed it that way. Maybe it would be ok but I'll check the datasheet. I want my photo resistor between two pins and then led to anothe resistor in order for it to properly work.
 
-1[image](attachments/image1.png)
+![image](attachments/image1.png)
 
-I put my resistor for LED at 330 ohms so they're bright.
+I put my resistor for LED at 330 ohms so they're bright. I decided that I needed to change where the pins are located because I don't like how it is uneven on the top and I figured it out through the tutorial.
+
+![image](attachments/image2.png)
 
 ### Time Spent: 1 Hours

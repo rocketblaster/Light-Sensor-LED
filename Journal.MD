@@ -10,4 +10,6 @@ Today I worked on finding schematic ideas. From this website https://www.555-tim
 
 Orginally I wanted to go with one LED because it was simple. Now that I think about it I could just add another LED in parallel. If I had a breadboard I can test it but I am only going to test through theory for now.
 
+I followed the diagram but I ran to a problem, my pins are not in the same orientation as it is in the picture so I had to reroute my wiring so that it can match the pinouts. Pin 3 is output so it should be ok!
+
 ### Time Spent: 1 Hours

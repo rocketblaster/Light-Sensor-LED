@@ -10,4 +10,4 @@ Today I worked on finding schematic ideas. From this website https://www.555-tim
 
 Orginally I wanted to go with one LED because it was simple. Now that I think about it I could just add another LED in parallel. If I had a breadboard I can test it but I am only going to test through theory for now.
 
-### Time Spent: X Hours
+### Time Spent: 1 Hours

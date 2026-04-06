@@ -32,4 +32,8 @@ I fixed it by adding powerflags.
 
 ![image](attachments/image5.png)
 
+Here is the schematic and I added some short notes regarding some components or the integrated circuit.
+
+1[image](attachments/image6.png)
+
 ### Time Spent: 2 Hours

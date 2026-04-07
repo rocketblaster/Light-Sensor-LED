@@ -1,6 +1,6 @@
-# Project Title
+# LED Sensor LED
 
-I made a thing which does a cool thing, it uses two cool things to light up some other cool things.
+This circuit contained a LDR or photo cell. When the photo resistor detects light the 555 timer turns on and the LED turns on as a result. When it is covered or it is dark, the LED turns off.
 
 ![Hero Image](Render.png)
 

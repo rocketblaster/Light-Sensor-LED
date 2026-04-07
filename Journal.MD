@@ -52,6 +52,8 @@ Here is the inspiration
 
 ![image](attachments/image8.png)
 
-Now I will start to trace a vector graphics outline to insert into KiCad
+Now I will start to trace a vector graphics outline to insert into KiCad. This is my vector graphic that is also scaled in pixels!
 
-### Time Spent: 0.5 Hours
+![image](attachments/image9.png)
+
+### Time Spent: 1 Hours

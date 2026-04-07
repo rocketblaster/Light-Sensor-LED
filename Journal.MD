@@ -44,4 +44,6 @@ As I move onto the next step, and I don't have really much I can do for the sche
 
 I also thought of chemistry themed PCB design... I am taking chemistry right now and I'm going to go with something simple like the LEDs for the eyes in general. I thought about a crow after looking through my art gallery because I drew one. So maybe I'll stick with a crow? For now I'll go to Proceate and sketch it out. Ooh! A cockatiel with a knife! Parrots are silly and sassy creatures. i remember drawing a cockatiel with a knife as a sticker... Or a crow with a knife would work. Just a bird in general. With flaming red LEDs hehe.
 
+Some of the crow pictures I tried drawing and it was too hard. I prefer side profile view though and that means having to a single LED only. Decided to scrap the idea of two LEDs because I persisted and didn't given in to the single LED!
+
 ### Time Spent: X Hours

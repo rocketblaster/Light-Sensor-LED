@@ -52,4 +52,6 @@ Here is the inspiration
 
 ![image](attachments/image8.png)
 
+Now I will start to trace a vector graphics outline to insert into KiCad
+
 ### Time Spent: 0.5 Hours

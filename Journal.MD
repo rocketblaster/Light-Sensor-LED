@@ -60,4 +60,8 @@ I forgot to add footprints. Let me assign it right now. I also changed the schem
 
 ![image](attachments/image10.png)
 
+Why it seems small, but it is within the 100x100mm constraint though.
+
+![image](attachments/image11.png)
+
 ### Time Spent: 1 Hours

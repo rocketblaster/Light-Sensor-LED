@@ -56,6 +56,8 @@ Now I will start to trace a vector graphics outline to insert into KiCad. This i
 
 ![image](attachments/image9.png)
 
-I forgot to add footprints. Let me assign it right now.
+I forgot to add footprints. Let me assign it right now. I also changed the schematic to be consistent in orientation so it is readable.
+
+![image](attachments/image10.png)
 
 ### Time Spent: 1 Hours

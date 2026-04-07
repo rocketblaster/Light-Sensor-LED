@@ -64,4 +64,6 @@ Why it seems small, but it is within the 100x100mm constraint though.
 
 ![image](attachments/image11.png)
 
-### Time Spent: 1 Hours
+It's okay! I can manage it. I have created the edge cuts layer and traced it over. I'll stop here probably and come back when I'm available, free from school obviously.
+
+### Time Spent: 1.5 Hours

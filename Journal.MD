@@ -40,6 +40,8 @@ Here is the schematic and I added some short notes regarding some components or 
 
 ## April 6th, 2026 - PCB editing!
 
-As I move onto the next step, and I don't have really much I can do for the schematic for now, I need to think of an accessible but distinct PCB edge cut. Having sharp obtuse corners are not cool and can hurt. I would love create a light sensor PCB keychain to hang. With a case obviously if it is going to be hung. The little components can get stuck on something and break!
+As I move onto the next step, and I don't have really much I can do for the schematic for now, I need to think of an accessible but distinct PCB edge cut. Having sharp obtuse corners are not cool and can hurt. I would love create a light sensor PCB keychain to hang. With a case obviously if it is going to be hung. The little components can get stuck on something and break! I wanted to do an owl but then when there is light the LEDs would be on so probably not.
+
+I also thought of chemistry themed PCB design... I am taking chemistry right now and I'm going to go with something simple like the LEDs for the eyes in general. I thought about a crow after looking through my art gallery because I drew one. So maybe I'll stick with a crow? For now I'll go to Proceate and sketch it out. Ooh! A cockatiel with a knife! Parrots are silly and sassy creatures. i remember drawing a cockatiel with a knife as a sticker... Or a crow with a knife would work. Just a bird in general. With flaming red LEDs hehe.
 
 ### Time Spent: X Hours

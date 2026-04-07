@@ -56,4 +56,6 @@ Now I will start to trace a vector graphics outline to insert into KiCad. This i
 
 ![image](attachments/image9.png)
 
+I forgot to add footprints. Let me assign it right now.
+
 ### Time Spent: 1 Hours

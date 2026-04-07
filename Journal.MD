@@ -46,4 +46,4 @@ I also thought of chemistry themed PCB design... I am taking chemistry right now
 
 Some of the crow pictures I tried drawing and it was too hard. I prefer side profile view though and that means having to a single LED only. Decided to scrap the idea of two LEDs because I persisted and didn't given in to the single LED!
 
-### Time Spent: X Hours
+### Time Spent: 0.5 Hours

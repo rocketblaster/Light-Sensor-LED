@@ -37,3 +37,9 @@ Here is the schematic and I added some short notes regarding some components or 
 1[image](attachments/image6.png)
 
 ### Time Spent: 2 Hours
+
+## April 6th, 2026 - PCB editing!
+
+As I move onto the next step, and I don't have really much I can do for the schematic for now, I need to think of an accessible but distinct PCB edge cut. Having sharp obtuse corners are not cool and can hurt. I would love create a light sensor PCB keychain to hang. With a case obviously if it is going to be hung. The little components can get stuck on something and break!
+
+### Time Spent: X Hours

@@ -67,3 +67,17 @@ Why it seems small, but it is within the 100x100mm constraint though.
 It's okay! I can manage it. I have created the edge cuts layer and traced it over. I'll stop here probably and come back when I'm available, free from school obviously.
 
 ### Time Spent: 1.5 Hours
+
+## April 8th, 2026 - PCB layout and design
+
+I recorded this process on lapse. Ugh this was so annoying with the shape I came up with. Had to do a lot of arranging to try to get it within some borders but I don't think the PCB would be readable at all if I did this. It finally worked and then I wanted to add silkscreen details :/
+
+![image](image12.png)
+
+Well I ended up changing the edge outline to be more smooth but then my lines were of random degrees and not 45, 135, whatever degree in fourths. I ended up doing fillet lines manually. I also couldn't draw the beak on the silkscreen with the snap thing going on. I actually wanted to keep it that way because I think it'll be easier on the manufacturers.
+
+![image](image13.png)
+
+I also made the silkscreens overlap one another for the decorations.
+
+### Time spent: 1.5 hours

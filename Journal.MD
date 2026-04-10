@@ -80,6 +80,6 @@ Well I ended up changing the edge outline to be more smooth but then my lines we
 
 I also made the silkscreens overlap one another for the decorations. This was were I left off for today, adding a github link to myself. Basically I made a lot of changes trying to adjust the USB connector and the feet. The feet I completely reworked because it'd be very sharp and a bad thing so no-no. Used ground fill for my ground connections. Everything managed to fit one the top layer which was great though.
 
-![image](attachments/image13.png)
+![image](attachments/image14.png)
 
 ### Time spent: 1.5 hours

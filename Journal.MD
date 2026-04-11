@@ -121,3 +121,5 @@ I opened up Fusion 360 but silkscreen cannot be imported. Searched it up and I w
 Thus I left it as it is and most people won't think of the hero image once they get the kit. I wanted to label the LDR since it is what makes the PCB distinctive from other components.
 
 ![image](attachments/Bird%20with%20Knife%20PCB.png)
+
+## Time Spent: 0.5 Hour

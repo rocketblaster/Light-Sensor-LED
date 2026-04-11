@@ -110,4 +110,14 @@ Then I moved the LDR again because it was blocking the R5 designator and the edg
 Final Schematic
 ![image](attachments/image22.png)
 
-## Time Spent: 1 Hour
+Attempted to create Hero image in Fusion 360. Onshape didn't work for me so I used Fusion 300
+
+### Time Spent: 1.5 Hour
+
+## April 11, 2026 - Hero Image
+
+I opened up Fusion 360 but silkscreen cannot be imported. Searched it up and I would need to export the geometry which would lag my tiny little Macbook so I didn't do it.
+
+Thus I left it as it is and most people won't think of the hero image once they get the kit. I wanted to label the LDR since it is what makes the PCB distinctive from other components.
+
+![image](attachments/Bird%20with%20Knife%20PCB.png)

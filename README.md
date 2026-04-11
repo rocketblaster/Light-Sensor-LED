@@ -29,7 +29,7 @@ This circuit contained a LDR or photo cell. When the photo resistor detects ligh
 | R5         | 330   |
 | R6         | 330   |
 | C1         | 0.1uF |
-| C2         | 0.001uF |
+| C2         | 0.01uF |
 | C3         | 10uF |
 | C4         | 10uF |
 | U1         | NE555 |

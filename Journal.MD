@@ -83,3 +83,31 @@ I also made the silkscreens overlap one another for the decorations. This was we
 ![image](attachments/image14.png)
 
 ### Time spent: 1.5 hours
+
+## April 10, 2026 - Final Changes Hopefully?
+
+For today I changed some of the orientation for example R6 on the beak. Just makes it more legible to read. Checking again with DRC I left a few loose tracks so I'll just reconnect them. Additionally in R2 and R1 I slightly changed the routing so they don't go over the silkscreen rendering the text illegible.
+
+![image](attachments/image15.png)
+
+I think I'm good with these changes because if I wanted to make more, I'd probably have to do hours again to overhaul the layout which is fine but this one works with short tracks.
+
+![image](attachments/image16.png)
+
+Last few checks and I moved the LDR to be more aligned because it looked off putting.
+
+![image](attachments/image17.png)
+
+Then I moved the LDR again because it was blocking the R5 designator and the edge cuts as it was a little bigger than I intended to drew in the reference, the knife part doesn't align with the handle length. Oh and RV1 solder mask conflict with silkscreen so I slightly moved it away from the R3. I would want to move R3 because the solder mask is close to the silkscreen. I also wanted to add the head silkscreen deco for depth according to my reference but it overlaps with RV1 soldermask so I cut the circle into a third of a quarter. In addition I removed the circles around the LEDs, originally it was going to be the eyes but I already have the LEDs as eyes and it takes up too much space on the PCB. Moved R3 closer to R4 to minimize tracks and it is connected to each other on the schematic. The LEDs changed orientation so the signal trace is on the bottom for the resistor to go to. Finally I fillet the edges I just changed. I believe this should be finally be the final product. I don't want to add any text besides my Github or anything since I have nothing to say LOL
+
+![image](attachments/image18.png)
+
+3D view
+
+![image](attachments/image19.png)
+![image](attachments/image20.png)
+
+Final Schematic
+![image](attachments/image22.png)
+
+## Time Spent: 1 Hour

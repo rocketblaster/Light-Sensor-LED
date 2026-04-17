@@ -17,6 +17,7 @@ This circuit contained a LDR or photo cell. When the photo resistor detects ligh
 ## PCB
 
 ![PCB Image](attachments/image18.png)
+![PCB Back Image](attachments/image24.png)
 
 ## BOM
 

@@ -122,12 +122,18 @@ Thus I left it as it is and most people won't think of the hero image once they 
 
 ![image](attachments/Bird%20with%20Knife%20PCB.png)
 
-## Time Spent: 0.5 Hour
+### Time Spent: 0.5 Hour
 
 ## April 17, 2026 - Revisions
 
 After reading feedback on the project, I changed the GitHub to this repository directly. It makes sense for people to be linked directly to this project instead of a confusing profile. I moved the link to somewhere over the top because the name was too long on the bottom.
 
-![image](image23.png)
+![image](attachments/image23.png)
+
+New Back view
+
+![image](attachments/image24.png)
 
 I am also considering updating the Hero Image to link to this repo as well so I did. Then once I finish it I reupdated the project and production fies. The image got overwritten, and the original was initally linked to profile.
+
+## Time Spent: maybe 30 minutes?

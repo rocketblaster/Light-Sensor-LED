@@ -136,4 +136,8 @@ New Back view
 
 I am also considering updating the Hero Image to link to this repo as well so I did. Then once I finish it I reupdated the project and production fies. The image got overwritten, and the original was initally linked to profile.
 
+Final PCB image hopefully
+
+![image](attachments/image25.png)
+
 ### Time Spent: maybe 30 minutes?

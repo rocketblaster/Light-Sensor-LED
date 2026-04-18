@@ -154,4 +154,6 @@ I decided to revert back to what I had initally since it was already optimal. An
 
 As always, new updates means new BOM, new source code files, updated readme, render image, schematic and PCB image. I'll reupdate my render, but the concept of the hero image will remain the same. Went back to Canva and changed the image. A little brighter than the original to make it vibrant and have contrast. Shadows made it hard to see in my opinion.
 
+![image](attachments/FinalRender.png)
+
 ### Time Spent: 1 Hour

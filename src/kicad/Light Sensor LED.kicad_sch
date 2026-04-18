@@ -1882,16 +1882,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 87.63) (xy 156.21 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1fff2534-381e-4c88-b0a2-ac9e87972625")
-	)
-	(wire
-		(pts
 			(xy 137.16 120.65) (xy 140.97 120.65)
 		)
 		(stroke
@@ -1919,6 +1909,16 @@
 			(type default)
 		)
 		(uuid "37a928bb-6d6b-427f-96a4-160a3ab596f7")
+	)
+	(wire
+		(pts
+			(xy 170.18 87.63) (xy 170.18 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4361c4ea-6342-4870-9d19-2134aded8ea0")
 	)
 	(wire
 		(pts
@@ -2182,16 +2182,6 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 87.63) (xy 170.18 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb4f2e49-d49f-45ff-99a1-8d7581ffe3b3")
-	)
-	(wire
-		(pts
 			(xy 140.97 109.22) (xy 140.97 120.65)
 		)
 		(stroke
@@ -2199,6 +2189,16 @@
 			(type default)
 		)
 		(uuid "f0c3a2c3-de17-4605-b507-d588cd9da86a")
+	)
+	(wire
+		(pts
+			(xy 156.21 87.63) (xy 156.21 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f815dd40-b8cd-49b1-aa6e-3f32dbf7715d")
 	)
 	(wire
 		(pts
@@ -2695,76 +2695,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 156.21 92.71 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3674cf57-4beb-4693-bf46-a4cb90f8b506")
-		(property "Reference" "C3"
-			(at 160.02 91.4399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10u"
-			(at 160.02 93.9799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P5.00mm"
-			(at 157.1752 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 156.21 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 156.21 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8728306a-4bcc-42a2-a3ff-ecf5a0fffeea")
-		)
-		(pin "2"
-			(uuid "b0e672b7-2fa3-4c4b-bc12-1f69d4b420f4")
-		)
-		(instances
-			(project "Light Sensor LED"
-				(path "/200fe080-27c0-40e7-8309-972367add7fe"
-					(reference "C3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 186.69 69.85 0)
 		(unit 1)
@@ -3097,76 +3027,6 @@
 			(project "Light Sensor LED"
 				(path "/200fe080-27c0-40e7-8309-972367add7fe"
 					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 170.18 92.71 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "71034026-1b66-47b1-a646-b9fef1a43b89")
-		(property "Reference" "C4"
-			(at 173.99 91.4399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10u"
-			(at 173.99 93.9799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P5.00mm"
-			(at 171.1452 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 170.18 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 170.18 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ab2fe762-e96f-49d5-83f0-c8c2e2a6bd60")
-		)
-		(pin "2"
-			(uuid "ed0a4282-05c0-46c5-8d04-49d4f646c749")
-		)
-		(instances
-			(project "Light Sensor LED"
-				(path "/200fe080-27c0-40e7-8309-972367add7fe"
-					(reference "C4")
 					(unit 1)
 				)
 			)

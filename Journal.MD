@@ -140,4 +140,18 @@ Final PCB image hopefully
 
 ![image](attachments/image25.png)
 
-### Time Spent: maybe 30 minutes?
+After some additional feedback regarding my PIN 3 capacitors, it seems like my capacitor is going to make my LED briefly turn on and then off  for the rest of the time the LDR active due to the capacitor charge getting low. I've decided omit it since when the LDR is active, both LEDs will go off/on in a second state. So then it is another day of organzing my layout as my capacitors have freed up tons of space!
+
+![image](attachments/image26.png)
+
+I attempted to reroute but now my VCC has nowhere to go! This is tough. I think this version will be scrapped and the vertical resistor would be more optimal despite making it a little less clean to read through. But I'll keep trying. I should've made the LDR closer to the 555 but then the pontentiometer is far. Okay I did that and it blocked a route for the resistor to diode.
+
+![image](attachments/image27.png)
+
+I decided to revert back to what I had initally since it was already optimal. And I didn't want to spend more time just to cut corners. I moved the resistor to give some spacing for the solder. Oh and I decided to move 555 timer a little to the right for spacing. Then the capacitor. I make sure there's enough space for soldering. I made sure to not let my traces too close to the pad because it might short if soldered on accidentally. I also aligned my components like R2 and R2 because they looked wonky and unclean. There were some instances of VCC traces with one pinhole having three different traces, well that's a lot to handle for one component so I purposely made the VCC in R4 LDR go to the 555 VCC instead.
+
+![image](attachments/image28.png)
+
+As always, new updates means new BOM, new source code files, updated readme, render image, schematic and PCB image. I'll reupdate my render, but the concept of the hero image will remain the same. Went back to Canva and changed the image. A little brighter than the original to make it vibrant and have contrast. Shadows made it hard to see in my opinion.
+
+### Time Spent: 1 Hour
